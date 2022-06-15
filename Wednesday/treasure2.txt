@@ -1,0 +1,5 @@
+1) 46.78452948967024, -92.14568905050777
+2) This GenCyber concept deals with ensuring data isn't tampered with in transit. (tell Anup if you know)
+3) VGhlIHRyZWFzdXJlIHlvdSBzZWVrIGlzIG5lYXIgdGhlIGJhc2Ugb2YgdGhlIHdlc3Qgc3RhaXJzIGluIE0xODA=
+5) What is the most recent version of Python? (answer in X.XX format) (and tell Micah)
+6) Unscramble this Linux command line term and tell Matt: ihnt asblarme
